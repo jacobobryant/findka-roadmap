@@ -1,3 +1,8 @@
 # Roadmap for [findka.com](https://findka.com)
 
-[View the roadmap](https://github.com/jacobobryant/findka-roadmap/issues). I've added the `queued` label to issues I'm planning to take in the next few days. Please add :+1: to issues you care about. Feel free to add comments and new issues. You can also chat in our [Slack workspace](https://join.slack.com/t/findka/shared_invite/zt-e1y4fufk-QY5ws53W~GJV4n8hGTabnQ).
+ - [Stuff I'll do soon](https://github.com/jacobobryant/findka-roadmap/issues?q=is%3Aissue+is%3Aopen+label%3Aqueued+)
+ - [Stuff I might do soon](https://github.com/jacobobryant/findka-roadmap/issues?q=is%3Aissue+is%3Aopen+-label%3Aqueued+-label%3A%22do+it+later%22)
+ - [Stuff I won't do soon](https://github.com/jacobobryant/findka-roadmap/issues?q=is%3Aissue+is%3Aopen+label%3A%22do+it+later%22+)
+
+Please add :+1: to issues you care about. Feel free to add comments and new issues. You can also chat in our [Slack workspace](https://join.slack.com/t/findka/shared_invite/zt-e1y4fufk-QY5ws53W~GJV4n8hGTabnQ).
+
