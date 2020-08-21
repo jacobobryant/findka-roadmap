@@ -1,6 +1,7 @@
 # Roadmap for [findka.com](https://findka.com)
 
  - [Stuff I'll do soon](https://github.com/jacobobryant/findka-roadmap/issues?q=is%3Aissue+is%3Aopen+label%3Aqueued+)
+ - [Small UI improvements](https://github.com/jacobobryant/findka-roadmap/issues/33)
  - [Stuff I might do soon](https://github.com/jacobobryant/findka-roadmap/issues?q=is%3Aissue+is%3Aopen+-label%3Aqueued+-label%3A%22do+it+later%22)
  - [Stuff I won't do soon](https://github.com/jacobobryant/findka-roadmap/issues?q=is%3Aissue+is%3Aopen+label%3A%22do+it+later%22+)
 
